@@ -1,5 +1,5 @@
 {
-    "name": "sylius/rbac",
+    "name": "admin-platform/rbac",
     "type": "library",
     "description": "RBAC component for PHP applications.",
     "keywords": ["Rbac", "security", "acl", "permissions"],
@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php": "^5.6|^7.0",
+        "php": "^7.1",
 
         "sylius/resource": "^1.0"
     },
